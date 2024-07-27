@@ -6,4 +6,5 @@ git commit --m "测试git命令"
 git push 
 git pull --rebase
 git merge
-git stash
+git stash 
+要把学的东西用起来
