@@ -10,3 +10,4 @@ git stash
 要把学的东西用起来
 git stash 把代码放到暂存区
 测试 git commit 和git pull
+git commit --m 再git pull会怎样
