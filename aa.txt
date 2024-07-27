@@ -13,3 +13,4 @@ git stash 把代码放到暂存区
 git commit --m 再git pull会怎样
 666
 888
+变基
