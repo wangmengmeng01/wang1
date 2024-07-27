@@ -1,3 +1,9 @@
 aaaaaaaaaaaaaaaaaaaaqqqqqqqqqqqqqq
 helllo1111111111111
 2222222
+git add .
+git commit --m "测试git命令"
+git push 
+git pull --rebase
+git merge
+git stash
