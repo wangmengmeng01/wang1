@@ -8,3 +8,4 @@ git pull --rebase
 git merge
 git stash 
 要把学的东西用起来
+git stash 把代码放到暂存区
